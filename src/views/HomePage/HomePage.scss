@@ -1,0 +1,36 @@
+@import '../../styles/colors.scss';
+
+.layout {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  border-top: 5px solid $primary_darkest;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.header {
+  height: 100px;
+  background-color: $bluish-green;
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+}
+
+.scheduleWrapper {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  overflow: auto;
+}
+
+.logo {
+  width: 200px;
+  height: 70px;
+  margin-left: 30px;
+  position: absolute;
+}

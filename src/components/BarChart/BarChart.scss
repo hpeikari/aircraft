@@ -1,0 +1,26 @@
+@import '../../styles/colors.scss';
+
+.wrapper {
+  margin: 20px 20px 0;
+}
+
+.totalSchedule {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.chart {
+  width: 100%;
+  height: 40px;
+
+  div {
+    height: 100%;
+    float: left;
+  }
+}
+
+.bar,
+.barEnds {
+  cursor: pointer;
+  background-color: lightgray;
+}

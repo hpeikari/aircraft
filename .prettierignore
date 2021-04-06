@@ -1,0 +1,8 @@
+node_modules
+output/*
+build
+.idea
+.vs
+.vscode
+.DS_Store
+src/components/hoc/.DS_Store

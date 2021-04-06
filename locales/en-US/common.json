@@ -1,0 +1,15 @@
+{
+  "applicant": "Henry Peikari, Technical Team Lead, UI Architect",
+  "cancel": "Cancel",
+  "loading": "Loading...",
+  "aircraftList": "Aircrafts",
+  "flightList": "Flights",
+  "flight": "Flight : {{id}}",
+  "rotation": "Rotation {{aircraft}}",
+  "totalScheduled": "Total daily schedule: {{percentage}}%",
+  "barPercentage": "Time line: {{value}}%",
+  "selectAircraft": "Please select an aircraft",
+  "listIsEmpty": "List is empty...!",
+  "selectAnAircraft": "First select an aircraft.",
+  "copyright": "Airline Scheduling POC App - All Rights Reserved - @2021"
+}
